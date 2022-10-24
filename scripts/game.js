@@ -1,1 +1,1 @@
-console.log('Hello!');
+console.log('Hewo I was logged from game.js!');
